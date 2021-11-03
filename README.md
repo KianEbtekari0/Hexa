@@ -1,4 +1,4 @@
-## Hello, this is projet new !
+## Hello, this is projet new :
 #### You can convert HEX to RGB in this project or even vice versa 
 
 ### Attention❗
