@@ -4,5 +4,4 @@
 ### Attention❗
 ##### This project is for those who want to convert their color from HEX to RGB or upside down.
 
-###### Thanks for wath this project ❤️
 ###### Kian ebtekari
